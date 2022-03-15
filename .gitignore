@@ -1,2 +1,7 @@
-venv
 out.html
+
+# python
+venv
+
+# javascript
+node_modules
